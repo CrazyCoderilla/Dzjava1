@@ -12,9 +12,15 @@ https://github.com/CrazyCoderilla/Dzjava1/issues/1
 
 ## Описание процесса тестирования
 
+В процессе тестирования использовались следующие артефакты*:
+* Описание дефектов
+* Отчёт о тестировании
+
+
 В качестве тестовых данных использовались данные:
 * https://ccard-generator.com/generate-card
 * https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 Тестирование производилось в следующем окружении:
 * Java 11
+
