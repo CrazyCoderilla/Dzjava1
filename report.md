@@ -6,9 +6,9 @@
 На тестирование затрачено: 1ч
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/CrazyCoderilla/Dzjava1/issues/3
-https://github.com/CrazyCoderilla/Dzjava1/issues/2
-https://github.com/CrazyCoderilla/Dzjava1/issues/1
+* https://github.com/CrazyCoderilla/Dzjava1/issues/3
+* https://github.com/CrazyCoderilla/Dzjava1/issues/2
+* https://github.com/CrazyCoderilla/Dzjava1/issues/1
 
 ## Описание процесса тестирования
 
