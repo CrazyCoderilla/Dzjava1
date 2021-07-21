@@ -9,10 +9,16 @@ public class Main {
         checkValidation("4767239209947232"); // Visa
         checkValidation("5119376578140304"); // Mastercard
         checkValidation("5038386039801541"); // Maestro
+        checkValidation("340761308830351"); // American Express (AMEX):
+        checkValidation("5427417330264235"); // Diners Club - North America:
+        checkValidation("36446937699166"); // Diners Club - International:
+        checkValidation("4929334228979056298"); // Visa
+        checkValidation("2202500798592793"); // Mir
+        checkValidation("2200613762270612"); // Mir
     }
 
     public static void checkValidation(String number) {
-        System.out.println(String.format("Result is %s", isValidCardNumber(number) ? "OK" : "FAIL"));
+        System.out.println(String.format("\""+number + "\" Result is %s", isValidCardNumber(number) ? "OK" : "FAIL"));
     }
 
     public static boolean isValidCardNumber(String number) {
