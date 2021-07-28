@@ -6,16 +6,10 @@
 На тестирование затрачено: 1ч
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/CrazyCoderilla/Dzjava1/issues/3
-* https://github.com/CrazyCoderilla/Dzjava1/issues/2
-* https://github.com/CrazyCoderilla/Dzjava1/issues/1
+* [Ошибка валидации карт Мир](https://github.com/CrazyCoderilla/Dzjava1/issues/1)
+* [Проверка валидации ограничена 16 символами](https://github.com/CrazyCoderilla/Dzjava1/issues/3)
 
 ## Описание процесса тестирования
-
-В процессе тестирования использовались следующие артефакты*:
-* Описание дефектов
-* Отчёт о тестировании
-
 
 В качестве тестовых данных использовались данные:
 * https://ccard-generator.com/generate-card
